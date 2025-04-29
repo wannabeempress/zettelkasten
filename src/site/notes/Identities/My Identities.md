@@ -22,6 +22,7 @@ As a [[6-2\|6-2]] [[Generator\|Generator]] [[Enneagram 7\|Enneagram 7]] [[ENFP\|
 
 
 ## Inbox
+- [[Changelog (conflict 2025-04-28-22-00-35)\|Changelog (conflict 2025-04-28-22-00-35)]]
 - [[Changelog (Patsitive's conflicted copy 2025-04-25)\|Changelog (Patsitive's conflicted copy 2025-04-25)]]
 - [[Thinking/Tracts/Why I Chose This Path\|Why I Chose This Path]]
 - [[Resources/PatsitiveOS\|PatsitiveOS]]
