@@ -22,14 +22,13 @@ As a [[6-2\|6-2]] [[Generator\|Generator]] [[Enneagram 7\|Enneagram 7]] [[ENFP\|
 
 
 ## Inbox
-- [[Changelog (conflict 2025-04-28-22-00-35)\|Changelog (conflict 2025-04-28-22-00-35)]]
-- [[Changelog (Patsitive's conflicted copy 2025-04-25)\|Changelog (Patsitive's conflicted copy 2025-04-25)]]
 - [[Thinking/Tracts/Why I Chose This Path\|Why I Chose This Path]]
 - [[Resources/PatsitiveOS\|PatsitiveOS]]
 - [[Index\|Index]]
+- [[Human Design 6-2\|Human Design 6-2]]
 - [[Dailies/2025-04-22\|2025-04-22]]
 - [[Dailies/2025-03-19\|2025-03-19]]
-- [[Changelog\|Changelog]]
+- [[Changelog (conflict 2025-05-20-17-06-36)\|Changelog (conflict 2025-05-20-17-06-36)]]
 
 { .block-language-dataview}
 # Who am I? I am a/an 

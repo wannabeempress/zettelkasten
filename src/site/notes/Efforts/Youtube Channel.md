@@ -60,7 +60,7 @@ My channel can be found [here](https://www.youtube.com/@patsitive)
 
 [[Youtube Research.canvas|Youtube Research]]
 [[Efforts/Video Ideas\|Video Ideas]]
-[[Sienna's Story\|Sienna's Story]]
+[[Thinking/Sienna's Story\|Sienna's Story]]
 
 
 ## Drawing
@@ -939,7 +939,7 @@ Cozy Knowledge Keepers - Decolonizing knowledge management
 
 [[Youtube Research.canvas|Youtube Research]]
 [[Efforts/Video Ideas\|Video Ideas]]
-[[Sienna's Story\|Sienna's Story]]
+[[Thinking/Sienna's Story\|Sienna's Story]]
 
 
 ## Drawing
@@ -1818,7 +1818,7 @@ Cozy Knowledge Keepers - Decolonizing knowledge management
 
 [[Youtube Research.canvas|Youtube Research]]
 [[Efforts/Video Ideas\|Video Ideas]]
-[[Sienna's Story\|Sienna's Story]]
+[[Thinking/Sienna's Story\|Sienna's Story]]
 
 
 ## Drawing
