@@ -25,10 +25,10 @@ As a [[6-2\|6-2]] [[Generator\|Generator]] [[Enneagram 7\|Enneagram 7]] [[ENFP\|
 - [[Thinking/Tracts/Why I Chose This Path\|Why I Chose This Path]]
 - [[Resources/PatsitiveOS\|PatsitiveOS]]
 - [[Index\|Index]]
-- [[Human Design 6-2\|Human Design 6-2]]
+- [[Identities/Human Design 6-2\|Human Design 6-2]]
 - [[Dailies/2025-04-22\|2025-04-22]]
 - [[Dailies/2025-03-19\|2025-03-19]]
-- [[Changelog (conflict 2025-05-20-17-06-36)\|Changelog (conflict 2025-05-20-17-06-36)]]
+- [[Changelog\|Changelog]]
 
 { .block-language-dataview}
 # Who am I? I am a/an 
@@ -49,5 +49,5 @@ As a [[6-2\|6-2]] [[Generator\|Generator]] [[Enneagram 7\|Enneagram 7]] [[ENFP\|
 [[Body\|Body]]
 [[Student\|Student]] because [[Thinking/Zettels/(8) I Am Well-Suited For Occupational Therapy\|(8) I Am Well-Suited For Occupational Therapy]]
 [[Corporate Career Woman\|Corporate Career Woman]] 
-[[Thinking/Zettels/(1C) I Am A Reader\|(1C) I Am A Reader]], so I [[Resources/Sources MOC#^c27c39\|read]]
+[[Thinking/Zettels/(1C) I am a reader\|(1C) I am a reader]], so I [[Resources/Sources MOC#^c27c39\|read]]
 [[Thinking/Zettels/(1) I Am A Writer\|(1) I Am A Writer]], so I [[Efforts/Thinking Arboretum\|write]] 
