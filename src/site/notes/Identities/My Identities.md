@@ -22,6 +22,7 @@ As a [[6-2\|6-2]] [[Generator\|Generator]] [[Enneagram 7\|Enneagram 7]] [[ENFP\|
 
 
 ## Inbox
+- [[Welcome to my digital garden\|Welcome to my digital garden]]
 - [[Thinking/Tracts/Why I Chose This Path\|Why I Chose This Path]]
 - [[Resources/PatsitiveOS\|PatsitiveOS]]
 - [[Index\|Index]]
