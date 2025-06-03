@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/3-b3-the-client-has-the-answer/","tags":["excalidraw"],"noteIcon":"","created":"2025-03-18T16:44","updated":"2025-04-01T14:22"}
+{"dg-publish":true,"permalink":"/thinking/zettels/3-b3-the-client-has-the-answer/","tags":["excalidraw"],"noteIcon":"","created":"2025-03-18T16:44","updated":"2025-05-06T16:55"}
 ---
 
 Central to the philosophy of [[Thinking/Zettels/(3B1B1A) Helping Roles\|(3B1B1A) Helping Roles]] like [[Thinking/Zettels/(3B) Coaching\|(3B) Coaching]], it is assumed and expected that the client knows best and is 'the expert of their own life'. Because each individual client is unique through their respective upbringings, skills, experiences, background and more, then only the client can truly speak to that uniqueness ([[Thinking/Reference/@westergaardIntroductionHelpingSkills2017\|Westergaard (2017)]]). [i.e. only the client has all the context]
 
-According to [[Thinking/Reference/@westergaardIntroductionHelpingSkills2017\|Westergaard (2017)]], the [[Thinking/Zettels/(3B2B2A1C) Role Of Coach\|(3B2B2A1C) Role Of Coach]] or helper is to walk alongside and support the client's learning and growth, as expanded upon in: 
+According to [[Thinking/Reference/@westergaardIntroductionHelpingSkills2017\|Westergaard (2017)]], the [[Thinking/Zettels/(3B2B2A1C) Role Of Coach-alongside\|(3B2B2A1C) Role Of Coach-alongside]] or helper is to walk alongside and support the client's learning and growth, as expanded upon in: 
 - [[Thinking/Zettels/(3B2B2A1C2) Coaches Foster Trust And Safety\|(3B2B2A1C2) Coaches Foster Trust And Safety]]
 - [[Thinking/Coaches Empathise\|Coaches Empathise]]
 - [[Thinking/Zettels/(3B4A1) Coaching Facilitates Reflective Self-Awareness And Continuous Learning\|(3B4A1) Coaching Facilitates Reflective Self-Awareness And Continuous Learning]]

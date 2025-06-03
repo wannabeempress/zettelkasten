@@ -22,14 +22,13 @@ As a [[6-2\|6-2]] [[Generator\|Generator]] [[Enneagram 7\|Enneagram 7]] [[ENFP\|
 
 
 ## Inbox
-- [[Welcome to my digital garden\|Welcome to my digital garden]]
+- [[Thinking/Welcome to my digital garden\|Welcome to my digital garden]]
 - [[Thinking/Tracts/Why I Chose This Path\|Why I Chose This Path]]
 - [[Resources/PatsitiveOS\|PatsitiveOS]]
 - [[Index\|Index]]
 - [[Identities/Human Design 6-2\|Human Design 6-2]]
 - [[Dailies/2025-04-22\|2025-04-22]]
 - [[Dailies/2025-03-19\|2025-03-19]]
-- [[Changelog\|Changelog]]
 
 { .block-language-dataview}
 # Who am I? I am a/an 
