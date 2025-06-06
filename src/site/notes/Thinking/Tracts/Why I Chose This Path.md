@@ -72,7 +72,7 @@ Come co-create with me; let’s make life magical, not just practical.
 
 _Want to join me? 🌿 
 
-- Check out my [[Efforts/Youtube Channel\|Youtube Channel]]
+- Check out my [[Efforts/Paused/Youtube Channel\|Youtube Channel]]
 - Explore my [digital garden](https://patsitive-notes.vercel.app/)
 - Read my [[Medium\|long-form writing]] 
 - Join the [[mailing list\|mailing list]] 
