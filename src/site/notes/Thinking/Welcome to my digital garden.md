@@ -40,7 +40,7 @@ _By the way,_ I think [[pink links\|pink links]] mean the note is _unpublished_ 
 ### Recently planted ideas 
 
 ``` dataview 
-LIST file.mtime
+TABLE file.mtime AS Modified
 FROM "Thinking/Zettels"
 SORT file.mtime DESC
 LIMIT 25
