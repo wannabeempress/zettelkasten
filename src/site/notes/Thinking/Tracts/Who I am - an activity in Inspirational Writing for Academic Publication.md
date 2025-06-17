@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/tracts/who-i-am-an-activity-in-inspirational-writing-for-academic-publication/","noteIcon":"","created":"2025-05-29T08:41","updated":"2025-05-30T13:11"}
+{"dg-publish":true,"permalink":"/thinking/tracts/who-i-am-an-activity-in-inspirational-writing-for-academic-publication/","noteIcon":"","created":"2025-05-29T08:41","updated":"2025-06-17T13:46"}
 ---
 
 [Becoming a Researcher: A Personal Invocation | by Patricia Oyson | May, 2025 | Medium](https://medium.com/@patricia.oyson/becoming-a-researcher-a-personal-invocation-a24d6639e022)
@@ -52,7 +52,7 @@ The bird circles overhead; I long to weave its cast-off feathers in the tapestry
 
 > Note: This was written in response to a writing exercise given in [[Thinking/Reference/@boltonInspirationalWritingAcademic2014\|@boltonInspirationalWritingAcademic2014]]. Then I fed it to ChatGPT and asked it to critique me. I then edited it myself. I'm using ChatGPT as a writing coach, in an attempt to do deliberate practice. 
 
-**supports**:: [[Thinking/Zettels/(1) I Am A Writer\|(1) I Am A Writer]]
+**supports**:: [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]
 **leads to**:: [[Efforts/Who do I cite- Exploring citation practices in coaching 2025\|Who do I cite- Exploring citation practices in coaching 2025]]
 
 **Reference** 

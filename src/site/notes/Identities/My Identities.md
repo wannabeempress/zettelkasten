@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/identities/my-identities/","noteIcon":"","created":"2024-09-21T21:14","updated":"2025-06-06T13:06"}
+{"dg-publish":true,"permalink":"/identities/my-identities/","noteIcon":"","created":"2024-09-21T21:14","updated":"2025-06-17T13:46"}
 ---
 
 
@@ -34,7 +34,7 @@ As a [[Identities/Human Design 6-2\|Human Design 6-2]] [[Generator\|Generator]] 
 
 ## Who am I? I am a/an
 
-- 💼 Professional: [[Student\|Student]], [[Identities/Business Woman/!Business Woman\|!Business Woman]], [[Thinking/Zettels/(1) I Am A Writer\|Writer]]
+- 💼 Professional: [[Student\|Student]], [[Identities/Business Woman/!Business Woman\|!Business Woman]], [[Thinking/Zettels/(1) I am a writer\|Writer]]
 - 🧠 Intellectual: [[Identities/Brain/!Brain\|!Brain]], [[Thinking/Zettels/(1C) I am a reader\|Reader]], [[Thinking/(0) Structure/All Zettels\|Zettelkasten Practitioner]]
 - 💕 Relational: [[Identities/Wife/Wife\|Wife]], [[Identities/Daughter in Law\|Daughter in Law]], [[Identities/Socialiser\|Socialiser]]
 - 🧘‍♀️ Embodied: [[Identities/Pole Dancer/!Pole Dancer\|!Pole Dancer]], [[Identities/Gardener\|Gardener]], [[Identities/Nail Tech\|Nail Tech]], [[Body\|Body]]

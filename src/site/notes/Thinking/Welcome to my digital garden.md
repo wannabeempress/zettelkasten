@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-05-30T15:10"}
+{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-06-17T13:56"}
 ---
 
 
@@ -14,9 +14,9 @@
 
 
 
-[[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|(1A1A1B2) Cultivating A Garden Is Continual Effort]], and these public notes represent my cottage garden of thoughts and musings-- with lots of beauty and chaos. As a cottage or kitchen garden, it needs to be a 'working garden' that bears fruit, which means I use [[Thinking/Zettels/(1A1A1A) Personal Knowledge Management\|(1A1A1A) Personal Knowledge Management]] and [[Resources/Zettelkasten Process\|Zettelkasten Process]] to keep at it. 
+[[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|(1A1A1B2) Cultivating A Garden Is Continual Effort]], and my public notes represent a cottage garden of thoughts and musings-- with lots of beauty and chaos. 
 
-#zettel/need-analog 
+As a cottage or kitchen garden, it needs to be a 'working garden' that bears fruit. I use [[Thinking/Zettels/(1A1A1A) Personal Knowledge Management\|(1A1A1A) Personal Knowledge Management]] and [[Resources/Zettelkasten Process\|Zettelkasten Process]] to develop my thinking and hopefully bear fruit in the form of writing, visuals and videos. 
 
 </div></div>
 
@@ -29,12 +29,21 @@ _By the way,_ I think ==pink links== mean the note is _unpublished_ or I chose t
 
 ## Meander  from these planted thoughts
 
+### Some favourites 
+
 - [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]
 - [[Thinking/Zettels/(3B) Coaching\|(3B) Coaching]]
-- [[Thinking/Zettels/(1) I Am A Writer\|(1) I Am A Writer]]
+- [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]
 - [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]
 - [[Thinking/Zettels/(5) Learning In Public Allows You To Grow Faster\|(5) Learning In Public Allows You To Grow Faster]]
 
+### Recently planted ideas 
 
+``` dataview 
+LIST file.mtime
+FROM "Thinking/Zettels"
+SORT file.mtime DESC
+LIMIT 25
+```
 ### Want to know who these thoughts belong to?
 **source**:: [[Identities/My Identities\|Who Am I]]?
