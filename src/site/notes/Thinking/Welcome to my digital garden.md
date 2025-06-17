@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-06-17T13:56"}
+{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-06-17T13:58"}
 ---
 
 
@@ -25,7 +25,7 @@ As a guest, you are welcome to explore this garden of thoughts.
 
 If any of my thoughts inspire you, then much like a physical garden, you can take a 'cutting'. Take the thought with you into your own notes or life and cultivate and nourish that thought, until it bears its own fruit and flowers. 
 
-_By the way,_ I think ==pink links== mean the note is _unpublished_ or I chose to keep it private, while **green links** are publicly online, and you can view them. Hope that helps!
+_By the way,_ I think ==[[pink links\|pink links]]== mean the note is _unpublished_ or I chose to keep it private, while **green links** are publicly online, and you can view them. Hope that helps!
 
 ## Meander  from these planted thoughts
 
