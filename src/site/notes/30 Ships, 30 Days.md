@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-ships-30-days/","noteIcon":"","created":"2025-07-08T10:36","updated":"2025-07-08T10:38"}
+{"dg-publish":true,"permalink":"/30-ships-30-days/","noteIcon":"","created":"2025-07-08T10:36","updated":"2025-07-09T12:59"}
 ---
 
 # 🛳️✨ 30 Ships, 30 Days
@@ -11,6 +11,7 @@
 
 ---
 
+## Rules 
 ### 🧠 Core Intentions:
 
 - **Build trust with my creative self** through repeated completion 🧩
@@ -20,15 +21,15 @@
 
 ---
 
-### 📜 The Rules:
+### 🛳️ What Counts as a Ship?
 
-| Rule                                     | Description                                                                                                                                         |
-| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🗓 **One ship per day, no batching**     | You can’t make multiple artifacts in one day. <br>Each ship deserves to make a solo debut on the shipping harbour.                                  |
-| 📆 **Days don’t have to be consecutive** | You better take BREAKS. This is about _30 full creative sessions_, not a 30-day grind. Don't clog the shipping lanes.                               |
-| 🧩 **Only approved tools allowed**       | No rabbit holes, no shiny new tech, no hunting Moby Dick. 🙅‍♀️ Stick to the status quo-o-oooooo 🎶                                                 |
-| ✂️ **Only MVPs allowed**                 | Each ship must be the _simplest functional version_. ~~Polish is for shoes~~ <br>Functional paddleboats > 1/4 done cruise ships. <br>Done > Perfect |
-| 🌐 **Must be published and linked**      | Every artifact must be uploaded somewhere shareable (e.g., itch.io, blog, website, email wall). <br>"Done" = discoverable.                          |
+| Rule                                | Description                                                                                                                                         |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🛳️ **Solo ships, no batching!**    | You can’t make multiple artifacts in one day. <br>Each ship deserves to make a solo debut on the shipping harbour.                                  |
+| 📆 **Made in ONE day**              | BUT you better take BREAKS. This is about _30 full creative sessions_, not a 30-day grind. Don't clog the shipping lanes.                           |
+| 🧩 **Made with approved tools**     | No rabbit holes, no shiny new tech, no hunting Moby Dick. 🙅‍♀️ Stick to the status quo-o-oooooo 🎶                                                 |
+| ✂️ **MVP**                          | Each ship must be the _simplest functional version_. ~~Polish is for shoes~~ <br>Functional paddleboats > 1/4 done cruise ships. <br>Done > Perfect |
+| 🌐 **Must be published and linked** | Every artifact must be uploaded somewhere shareable (e.g., itch.io, blog, website, email wall). <br>"Done" = discoverable.                          |
 
 ---
 
@@ -44,14 +45,6 @@
 | Hosting                     | **itch.io, my VPS**   |
 | Spreadsheets                | **Sheets, Notion**    |
 Plus, obviously, my homegirl Chattie of GPT!
----
-
----
-
-### 📦 What Counts as a Ship?
-
-- A finished, uploaded project people can click, read, play, or watch
-- Any creative _artifact_ that _exists and is public_ 💁‍♀️
 
 ---
 
@@ -65,3 +58,7 @@ Plus, obviously, my homegirl Chattie of GPT!
 - As Nicole van der Hoeven said in that video you re-watch all the time, learn in public 
 - As Zsolt of Excalidraw fame says, make it visual 
 - As Cal Newport says, GO DEEP and insert Greek mythology references
+
+## The SHIPS 🛳️✨💖
+
+- Ship 1: [[Archive/Finished projects/Keep Kiwi Happy micro-game\|Keep Kiwi Happy micro-game]] - [[2025-07-08\|2025-07-08]]

@@ -41,6 +41,8 @@ _By the way,_ I think [[pink links\|pink links]] mean the note is _unpublished_ 
 
 ### Recently planted ideas 
 
+- [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]: 1:40 PM - July 09, 2025
+- [[Thinking/Zettels/(1B2A) Copy Gamers to Reach Flow State\|(1B2A) Copy Gamers to Reach Flow State]]: 1:40 PM - July 09, 2025
 - [[Thinking/Zettels/(3B2B2A1C2A2) Build Trust By Maintaining Contact\|(3B2B2A1C2A2) Build Trust By Maintaining Contact]]: 11:30 AM - July 07, 2025
 - [[Thinking/Zettels/(3B2B2A1C2A3A1G) OSKAR Model\|(3B2B2A1C2A3A1G) OSKAR Model]]: 8:13 AM - July 07, 2025
 - [[Thinking/Zettels/(3B3A) The Coach Asks So The Client Can Answer\|(3B3A) The Coach Asks So The Client Can Answer]]: 11:53 AM - July 03, 2025
@@ -64,7 +66,5 @@ _By the way,_ I think [[pink links\|pink links]] mean the note is _unpublished_ 
 - [[Thinking/Zettels/(3B1A1A) Coachee Growth\|(3B1A1A) Coachee Growth]]: 7:34 PM - June 30, 2025
 - [[Thinking/Zettels/(3B1A1) Coaching Benefits The Client\|(3B1A1) Coaching Benefits The Client]]: 6:04 PM - June 30, 2025
 - [[Thinking/Zettels/(2A) My Husband Is Romantic\|(2A) My Husband Is Romantic]]: 11:24 AM - June 27, 2025
-- [[Thinking/Zettels/(1A3A1) Small habits shift identity faster\|(1A3A1) Small habits shift identity faster]]: 11:24 AM - June 24, 2025
-- [[Thinking/Zettels/(1A3A) Shift your identity by changing your actions\|(1A3A) Shift your identity by changing your actions]]: 11:23 AM - June 24, 2025
 
 { .block-language-dataview}
