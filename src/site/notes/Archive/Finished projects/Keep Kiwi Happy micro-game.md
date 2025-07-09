@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/finished-projects/keep-kiwi-happy-micro-game/","noteIcon":"","created":"2025-07-09T12:33","updated":"2025-07-09T13:47"}
+{"dg-publish":true,"permalink":"/archive/finished-projects/keep-kiwi-happy-micro-game/","noteIcon":"","created":"2025-07-09T12:33","updated":"2025-07-09T13:52"}
 ---
 
 
@@ -16,7 +16,7 @@
 ## Project details 
 
 ### What did you ship? 
-
+> Part of the [[30 Ships, 30 Days\|30 Ships, 30 Days]] challenge
 <iframe src="https://www.lexaloffle.com/bbs/?tid=150136" width="560" height="460"></iframe>
 
 KiwiJoy is a micro-game about seeking happiness, even if the boost you get wears off over time. 
@@ -60,6 +60,7 @@ There are probably other books or studies out there about raising your baseline 
 - [ ] Game over screen 
 - [ ] Left and Right controls 
 - [ ] Kiwi has basic animations for moving left and right!!!!! 
+
 **Out of Scope (long list encouraged!):**  
 - [ ] sound effects
 - [ ] music
