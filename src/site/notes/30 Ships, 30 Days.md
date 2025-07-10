@@ -62,3 +62,4 @@ Plus, obviously, my homegirl Chattie of GPT!
 ## The SHIPS 🛳️✨💖
 
 - Ship 1: [[Archive/Finished projects/Keep Kiwi Happy micro-game\|Keep Kiwi Happy micro-game]] - [[2025-07-08\|2025-07-08]]
+- Ship 2: [[Sense-sational Spellbook\|Sense-sational Spellbook]] - [[2025-07-10\|2025-07-10]]
